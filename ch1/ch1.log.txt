@@ -1,0 +1,6 @@
+pipenv --python 3
+pipenv install NumPy Matplotli
+pipenv install -d autopep8
+pipenv run python ch1.py
+
+yay -S tk
